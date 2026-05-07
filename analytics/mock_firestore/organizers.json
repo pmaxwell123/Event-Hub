@@ -1,0 +1,82 @@
+{
+  "device_003": {
+    "deviceId": "device_003",
+    "events": [
+      "event_015",
+      "event_017",
+      "event_020",
+      "event_037"
+    ]
+  },
+  "device_006": {
+    "deviceId": "device_006",
+    "events": [
+      "event_004",
+      "event_019",
+      "event_022",
+      "event_023",
+      "event_034",
+      "event_039",
+      "event_040"
+    ]
+  },
+  "device_007": {
+    "deviceId": "device_007",
+    "events": [
+      "event_005",
+      "event_012",
+      "event_016",
+      "event_025",
+      "event_028"
+    ]
+  },
+  "device_008": {
+    "deviceId": "device_008",
+    "events": [
+      "event_008",
+      "event_018",
+      "event_024",
+      "event_026",
+      "event_030",
+      "event_031"
+    ]
+  },
+  "device_009": {
+    "deviceId": "device_009",
+    "events": [
+      "event_001",
+      "event_011",
+      "event_014",
+      "event_027"
+    ]
+  },
+  "device_012": {
+    "deviceId": "device_012",
+    "events": [
+      "event_002",
+      "event_010",
+      "event_013",
+      "event_033",
+      "event_036"
+    ]
+  },
+  "device_018": {
+    "deviceId": "device_018",
+    "events": [
+      "event_003",
+      "event_006",
+      "event_038"
+    ]
+  },
+  "device_022": {
+    "deviceId": "device_022",
+    "events": [
+      "event_007",
+      "event_009",
+      "event_021",
+      "event_029",
+      "event_032",
+      "event_035"
+    ]
+  }
+}

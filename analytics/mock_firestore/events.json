@@ -1,0 +1,4556 @@
+{
+  "event_001": {
+    "name": "Networking Lunch 1",
+    "eventDate": "08/15/2026",
+    "time": "09:00",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "0",
+    "waitListCapacity": 94,
+    "eventSlots": 69,
+    "waitlisted": [],
+    "finalists": [
+      "device_007",
+      "device_015",
+      "device_022",
+      "device_019",
+      "device_013",
+      "device_008",
+      "device_010",
+      "device_006",
+      "device_012",
+      "device_011",
+      "device_020",
+      "device_014",
+      "device_005",
+      "device_023",
+      "device_017",
+      "device_003",
+      "device_018",
+      "device_016",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_001",
+    "qrHash": "4cf27b381ab434da8db79705219a125019c5b5d2c5c79aa0c4a16aafa9a2f357",
+    "eventID": "event_001",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_007",
+      "device_015",
+      "device_022",
+      "device_019",
+      "device_013",
+      "device_008",
+      "device_010",
+      "device_006",
+      "device_012",
+      "device_011",
+      "device_020",
+      "device_014",
+      "device_005",
+      "device_023",
+      "device_017",
+      "device_003",
+      "device_018",
+      "device_016",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_007": [
+          53.541694,
+          -113.409771
+        ]
+      },
+      {
+        "device_015": [
+          53.54016,
+          -113.619846
+        ]
+      },
+      {
+        "device_022": [
+          53.505107,
+          -113.614741
+        ]
+      },
+      {
+        "device_019": [
+          53.607947,
+          -113.382745
+        ]
+      },
+      {
+        "device_013": [
+          53.591383,
+          -113.536971
+        ]
+      },
+      {
+        "device_008": [
+          53.459847,
+          -113.382937
+        ]
+      },
+      {
+        "device_010": [
+          53.610981,
+          -113.596874
+        ]
+      },
+      {
+        "device_006": [
+          53.532618,
+          -113.601313
+        ]
+      },
+      {
+        "device_012": [
+          53.579302,
+          -113.413225
+        ]
+      },
+      {
+        "device_011": [
+          53.471827,
+          -113.491674
+        ]
+      },
+      {
+        "device_020": [
+          53.543467,
+          -113.548435
+        ]
+      },
+      {
+        "device_014": [
+          53.598314,
+          -113.505753
+        ]
+      },
+      {
+        "device_005": [
+          53.486006,
+          -113.47439
+        ]
+      },
+      {
+        "device_023": [
+          53.574088,
+          -113.565689
+        ]
+      },
+      {
+        "device_017": [
+          53.502992,
+          -113.35131
+        ]
+      },
+      {
+        "device_003": [
+          53.560479,
+          -113.501713
+        ]
+      },
+      {
+        "device_018": [
+          53.537988,
+          -113.587329
+        ]
+      },
+      {
+        "device_016": [
+          53.488199,
+          -113.528717
+        ]
+      },
+      {
+        "device_002": [
+          53.550012,
+          -113.557869
+        ]
+      }
+    ],
+    "location": "4456 111 Ave, Edmonton, AB",
+    "deviceId": "device_009",
+    "signupDeadline": "07/25/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_001.jpg",
+    "disabled": false
+  },
+  "event_002": {
+    "name": "Wellness Session 2",
+    "eventDate": "05/21/2026",
+    "time": "12:45",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "0",
+    "waitListCapacity": 66,
+    "eventSlots": 45,
+    "waitlisted": [],
+    "finalists": [
+      "device_013",
+      "device_016",
+      "device_002",
+      "device_022",
+      "device_007",
+      "device_011",
+      "device_020",
+      "device_014",
+      "device_003",
+      "device_019",
+      "device_023",
+      "device_018",
+      "device_017",
+      "device_008",
+      "device_005",
+      "device_015",
+      "device_010"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [
+      "device_006"
+    ],
+    "qrCodeData": "QR::event_002",
+    "qrHash": "2a52e0491f262478e59e7d5537405c9866d4859a6f504d08922f006c8aef4b28",
+    "eventID": "event_002",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [
+      "device_006"
+    ],
+    "joinedNotificationsList": [
+      "device_013",
+      "device_016",
+      "device_002",
+      "device_022",
+      "device_007",
+      "device_011",
+      "device_020",
+      "device_014",
+      "device_003",
+      "device_019",
+      "device_023",
+      "device_018",
+      "device_017",
+      "device_008",
+      "device_005",
+      "device_015",
+      "device_010"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4483 Kingsway, Edmonton, AB",
+    "deviceId": "device_012",
+    "signupDeadline": "05/02/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_002.jpg",
+    "disabled": true
+  },
+  "event_003": {
+    "name": "Networking Lunch 3",
+    "eventDate": "06/14/2026",
+    "time": "13:45",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "25",
+    "waitListCapacity": 86,
+    "eventSlots": 51,
+    "waitlisted": [],
+    "finalists": [
+      "device_016",
+      "device_017",
+      "device_005",
+      "device_006",
+      "device_015",
+      "device_012",
+      "device_007",
+      "device_020",
+      "device_013",
+      "device_011",
+      "device_022",
+      "device_023",
+      "device_019",
+      "device_010",
+      "device_002",
+      "device_008",
+      "device_014",
+      "device_003"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_003",
+    "qrHash": "44d2c6c0251425f4af49bbc7a13e0f9604b65d95ca319a0bae33d6c15be47fc9",
+    "eventID": "event_003",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_016",
+      "device_017",
+      "device_005",
+      "device_006",
+      "device_015",
+      "device_012",
+      "device_007",
+      "device_020",
+      "device_013",
+      "device_011",
+      "device_022",
+      "device_023",
+      "device_019",
+      "device_010",
+      "device_002",
+      "device_008",
+      "device_014",
+      "device_003"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "8517 82 Ave, Edmonton, AB",
+    "deviceId": "device_018",
+    "signupDeadline": "05/28/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_003.jpg",
+    "disabled": false
+  },
+  "event_004": {
+    "name": "Design Sprint 4",
+    "eventDate": "05/13/2026",
+    "time": "12:15",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "40",
+    "waitListCapacity": 35,
+    "eventSlots": 27,
+    "waitlisted": [
+      "device_003",
+      "device_014",
+      "device_023",
+      "device_008"
+    ],
+    "finalists": [
+      "device_013",
+      "device_007",
+      "device_012",
+      "device_018",
+      "device_002",
+      "device_005",
+      "device_016",
+      "device_019",
+      "device_017"
+    ],
+    "cancelled": [],
+    "selected": [
+      "device_015",
+      "device_022",
+      "device_010",
+      "device_011",
+      "device_020"
+    ],
+    "reselected": [],
+    "qrCodeData": "QR::event_004",
+    "qrHash": "c14c2cc388d4954ca8cd337bd6c99bde8439f1d97340c7781f376b83caafba8c",
+    "eventID": "event_004",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [
+      "device_003",
+      "device_014",
+      "device_023",
+      "device_008"
+    ],
+    "selectedNotificationsList": [
+      "device_015",
+      "device_022",
+      "device_010",
+      "device_011",
+      "device_020"
+    ],
+    "joinedNotificationsList": [
+      "device_013",
+      "device_007",
+      "device_012",
+      "device_018",
+      "device_002",
+      "device_005",
+      "device_016",
+      "device_019",
+      "device_017"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_013": [
+          53.558309,
+          -113.549272
+        ]
+      },
+      {
+        "device_007": [
+          53.576009,
+          -113.471046
+        ]
+      },
+      {
+        "device_012": [
+          53.522707,
+          -113.617389
+        ]
+      },
+      {
+        "device_018": [
+          53.462791,
+          -113.381561
+        ]
+      },
+      {
+        "device_002": [
+          53.603668,
+          -113.472691
+        ]
+      },
+      {
+        "device_005": [
+          53.591881,
+          -113.462722
+        ]
+      },
+      {
+        "device_016": [
+          53.475176,
+          -113.58559
+        ]
+      },
+      {
+        "device_019": [
+          53.502404,
+          -113.377275
+        ]
+      },
+      {
+        "device_017": [
+          53.585341,
+          -113.38761
+        ]
+      }
+    ],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "04/26/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_004.jpg",
+    "disabled": false
+  },
+  "event_005": {
+    "name": "Tech Talk 5",
+    "eventDate": "06/11/2026",
+    "time": "20:30",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "0",
+    "waitListCapacity": 38,
+    "eventSlots": 37,
+    "waitlisted": [
+      "device_005",
+      "device_016",
+      "device_022",
+      "device_014",
+      "device_011"
+    ],
+    "finalists": [
+      "device_002",
+      "device_017",
+      "device_018",
+      "device_020",
+      "device_010",
+      "device_006",
+      "device_012",
+      "device_015",
+      "device_019",
+      "device_023",
+      "device_003",
+      "device_008",
+      "device_013"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_005",
+    "qrHash": "da593d5c0ec08a72b17610e8c81ff57ceb1fdff2e25a5fd7427006cdbc3023b9",
+    "eventID": "event_005",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [
+      "device_005",
+      "device_016",
+      "device_022",
+      "device_014",
+      "device_011"
+    ],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_002",
+      "device_017",
+      "device_018",
+      "device_020",
+      "device_010",
+      "device_006",
+      "device_012",
+      "device_015",
+      "device_019",
+      "device_023",
+      "device_003",
+      "device_008",
+      "device_013"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_002": [
+          53.468428,
+          -113.502668
+        ]
+      },
+      {
+        "device_017": [
+          53.573853,
+          -113.535307
+        ]
+      },
+      {
+        "device_018": [
+          53.553056,
+          -113.481916
+        ]
+      },
+      {
+        "device_020": [
+          53.515483,
+          -113.464321
+        ]
+      },
+      {
+        "device_010": [
+          53.493303,
+          -113.428628
+        ]
+      },
+      {
+        "device_006": [
+          53.450288,
+          -113.370095
+        ]
+      },
+      {
+        "device_012": [
+          53.541537,
+          -113.425754
+        ]
+      },
+      {
+        "device_015": [
+          53.576132,
+          -113.43893
+        ]
+      },
+      {
+        "device_019": [
+          53.511918,
+          -113.601107
+        ]
+      },
+      {
+        "device_023": [
+          53.56292,
+          -113.530846
+        ]
+      },
+      {
+        "device_003": [
+          53.503366,
+          -113.391036
+        ]
+      },
+      {
+        "device_008": [
+          53.572358,
+          -113.538913
+        ]
+      },
+      {
+        "device_013": [
+          53.502578,
+          -113.509734
+        ]
+      }
+    ],
+    "location": "4752 Whyte Ave, Edmonton, AB",
+    "deviceId": "device_007",
+    "signupDeadline": "06/03/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_005.jpg",
+    "disabled": false
+  },
+  "event_006": {
+    "name": "Career Fair 6",
+    "eventDate": "08/06/2026",
+    "time": "19:00",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "20",
+    "waitListCapacity": 88,
+    "eventSlots": 53,
+    "waitlisted": [],
+    "finalists": [
+      "device_008",
+      "device_019",
+      "device_023",
+      "device_007",
+      "device_003",
+      "device_002",
+      "device_022",
+      "device_015",
+      "device_016",
+      "device_014",
+      "device_005",
+      "device_013",
+      "device_011",
+      "device_010",
+      "device_017",
+      "device_020",
+      "device_006",
+      "device_012"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_006",
+    "qrHash": "81bb70851198190646ffdfd3ba44031102d7727ba8726b9e0b4ca7a28e8287ac",
+    "eventID": "event_006",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_008",
+      "device_019",
+      "device_023",
+      "device_007",
+      "device_003",
+      "device_002",
+      "device_022",
+      "device_015",
+      "device_016",
+      "device_014",
+      "device_005",
+      "device_013",
+      "device_011",
+      "device_010",
+      "device_017",
+      "device_020",
+      "device_006",
+      "device_012"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "8517 82 Ave, Edmonton, AB",
+    "deviceId": "device_018",
+    "signupDeadline": "07/29/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_006.jpg",
+    "disabled": false
+  },
+  "event_007": {
+    "name": "Volunteer Orientation 7",
+    "eventDate": "05/18/2026",
+    "time": "11:45",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "0",
+    "waitListCapacity": 60,
+    "eventSlots": 46,
+    "waitlisted": [],
+    "finalists": [
+      "device_005",
+      "device_023",
+      "device_018",
+      "device_020",
+      "device_003",
+      "device_012",
+      "device_007",
+      "device_002",
+      "device_011",
+      "device_015",
+      "device_006",
+      "device_013",
+      "device_017",
+      "device_008",
+      "device_014",
+      "device_019",
+      "device_016",
+      "device_010"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_007",
+    "qrHash": "ca483dc0d83288832e843994af6338d427963a71a891f166c3c3711053d0391f",
+    "eventID": "event_007",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_005",
+      "device_023",
+      "device_018",
+      "device_020",
+      "device_003",
+      "device_012",
+      "device_007",
+      "device_002",
+      "device_011",
+      "device_015",
+      "device_006",
+      "device_013",
+      "device_017",
+      "device_008",
+      "device_014",
+      "device_019",
+      "device_016",
+      "device_010"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_005": [
+          53.460919,
+          -113.509948
+        ]
+      },
+      {
+        "device_023": [
+          53.542244,
+          -113.507741
+        ]
+      },
+      {
+        "device_018": [
+          53.485162,
+          -113.506561
+        ]
+      },
+      {
+        "device_020": [
+          53.603823,
+          -113.462299
+        ]
+      },
+      {
+        "device_003": [
+          53.568239,
+          -113.388682
+        ]
+      },
+      {
+        "device_012": [
+          53.580151,
+          -113.517297
+        ]
+      },
+      {
+        "device_007": [
+          53.451002,
+          -113.525025
+        ]
+      },
+      {
+        "device_002": [
+          53.578091,
+          -113.389569
+        ]
+      },
+      {
+        "device_011": [
+          53.612083,
+          -113.506864
+        ]
+      },
+      {
+        "device_015": [
+          53.577078,
+          -113.472544
+        ]
+      },
+      {
+        "device_006": [
+          53.552553,
+          -113.560455
+        ]
+      },
+      {
+        "device_013": [
+          53.487302,
+          -113.502324
+        ]
+      },
+      {
+        "device_017": [
+          53.454934,
+          -113.529245
+        ]
+      },
+      {
+        "device_008": [
+          53.565454,
+          -113.510834
+        ]
+      },
+      {
+        "device_014": [
+          53.478058,
+          -113.493805
+        ]
+      },
+      {
+        "device_019": [
+          53.471697,
+          -113.451991
+        ]
+      },
+      {
+        "device_016": [
+          53.454584,
+          -113.513615
+        ]
+      },
+      {
+        "device_010": [
+          53.545947,
+          -113.612682
+        ]
+      }
+    ],
+    "location": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022",
+    "signupDeadline": "04/28/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_007.jpg",
+    "disabled": false
+  },
+  "event_008": {
+    "name": "Coding Bootcamp 8",
+    "eventDate": "07/09/2026",
+    "time": "13:30",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "10",
+    "waitListCapacity": 114,
+    "eventSlots": 58,
+    "waitlisted": [],
+    "finalists": [
+      "device_005",
+      "device_022",
+      "device_015",
+      "device_018",
+      "device_011",
+      "device_010",
+      "device_014",
+      "device_016",
+      "device_017",
+      "device_007",
+      "device_012",
+      "device_006",
+      "device_013",
+      "device_003",
+      "device_020",
+      "device_019",
+      "device_023",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_008",
+    "qrHash": "8986677eff7403ee74733e52ae93b641651ff517124a0d01da508b132e4409c2",
+    "eventID": "event_008",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_005",
+      "device_022",
+      "device_015",
+      "device_018",
+      "device_011",
+      "device_010",
+      "device_014",
+      "device_016",
+      "device_017",
+      "device_007",
+      "device_012",
+      "device_006",
+      "device_013",
+      "device_003",
+      "device_020",
+      "device_019",
+      "device_023",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_005": [
+          53.548376,
+          -113.3692
+        ]
+      },
+      {
+        "device_022": [
+          53.547885,
+          -113.374833
+        ]
+      },
+      {
+        "device_015": [
+          53.513802,
+          -113.365803
+        ]
+      },
+      {
+        "device_018": [
+          53.483716,
+          -113.460134
+        ]
+      },
+      {
+        "device_011": [
+          53.591197,
+          -113.554431
+        ]
+      },
+      {
+        "device_010": [
+          53.568523,
+          -113.538573
+        ]
+      },
+      {
+        "device_014": [
+          53.566324,
+          -113.402507
+        ]
+      },
+      {
+        "device_016": [
+          53.585359,
+          -113.467198
+        ]
+      },
+      {
+        "device_017": [
+          53.456982,
+          -113.476159
+        ]
+      },
+      {
+        "device_007": [
+          53.562459,
+          -113.601382
+        ]
+      },
+      {
+        "device_012": [
+          53.560082,
+          -113.616584
+        ]
+      },
+      {
+        "device_006": [
+          53.52141,
+          -113.487646
+        ]
+      },
+      {
+        "device_013": [
+          53.523699,
+          -113.522209
+        ]
+      },
+      {
+        "device_003": [
+          53.601568,
+          -113.49587
+        ]
+      },
+      {
+        "device_020": [
+          53.476008,
+          -113.572443
+        ]
+      },
+      {
+        "device_019": [
+          53.538697,
+          -113.444376
+        ]
+      },
+      {
+        "device_023": [
+          53.554705,
+          -113.371703
+        ]
+      },
+      {
+        "device_002": [
+          53.581689,
+          -113.494484
+        ]
+      }
+    ],
+    "location": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008",
+    "signupDeadline": "06/26/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_008.jpg",
+    "disabled": false
+  },
+  "event_009": {
+    "name": "Entrepreneurship Panel 9",
+    "eventDate": "06/12/2026",
+    "time": "13:30",
+    "description": "A hands-on session featuring practical activities and group participation.",
+    "price": "0",
+    "waitListCapacity": 64,
+    "eventSlots": 63,
+    "waitlisted": [],
+    "finalists": [
+      "device_018",
+      "device_023",
+      "device_019",
+      "device_006",
+      "device_012",
+      "device_016",
+      "device_002",
+      "device_017",
+      "device_013",
+      "device_011",
+      "device_003",
+      "device_020",
+      "device_008",
+      "device_007",
+      "device_015",
+      "device_010",
+      "device_014",
+      "device_005"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_009",
+    "qrHash": "edc47898e04a3d82934aaf454d0e4bc0feb8bb235dbd9980b9a533d0bc5ae80a",
+    "eventID": "event_009",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_018",
+      "device_023",
+      "device_019",
+      "device_006",
+      "device_012",
+      "device_016",
+      "device_002",
+      "device_017",
+      "device_013",
+      "device_011",
+      "device_003",
+      "device_020",
+      "device_008",
+      "device_007",
+      "device_015",
+      "device_010",
+      "device_014",
+      "device_005"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022",
+    "signupDeadline": "05/26/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_009.jpg",
+    "disabled": false
+  },
+  "event_010": {
+    "name": "Wellness Session 10",
+    "eventDate": "05/27/2026",
+    "time": "10:00",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "0",
+    "waitListCapacity": 44,
+    "eventSlots": 38,
+    "waitlisted": [],
+    "finalists": [
+      "device_019",
+      "device_015",
+      "device_005",
+      "device_016",
+      "device_006",
+      "device_023",
+      "device_014",
+      "device_007",
+      "device_013",
+      "device_002",
+      "device_008",
+      "device_010",
+      "device_017",
+      "device_022",
+      "device_003",
+      "device_018",
+      "device_011",
+      "device_020"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_010",
+    "qrHash": "7d6846a6fc0f9e561303622e1aa713d85825ca9ae78ebd0c4ebadd364378f0b0",
+    "eventID": "event_010",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_019",
+      "device_015",
+      "device_005",
+      "device_016",
+      "device_006",
+      "device_023",
+      "device_014",
+      "device_007",
+      "device_013",
+      "device_002",
+      "device_008",
+      "device_010",
+      "device_017",
+      "device_022",
+      "device_003",
+      "device_018",
+      "device_011",
+      "device_020"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4483 Kingsway, Edmonton, AB",
+    "deviceId": "device_012",
+    "signupDeadline": "05/07/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_010.jpg",
+    "disabled": false
+  },
+  "event_011": {
+    "name": "Coding Bootcamp 11",
+    "eventDate": "05/22/2026",
+    "time": "19:15",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "0",
+    "waitListCapacity": 56,
+    "eventSlots": 30,
+    "waitlisted": [
+      "device_010"
+    ],
+    "finalists": [
+      "device_011",
+      "device_019",
+      "device_002",
+      "device_023",
+      "device_005",
+      "device_006",
+      "device_016",
+      "device_008",
+      "device_007",
+      "device_015",
+      "device_022",
+      "device_003",
+      "device_014",
+      "device_013",
+      "device_020",
+      "device_012",
+      "device_018",
+      "device_017"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_011",
+    "qrHash": "56280bf0d87d62d7aa160d1f4825e4d28b24479fb214726d367dda209ccd4502",
+    "eventID": "event_011",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [
+      "device_010"
+    ],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_011",
+      "device_019",
+      "device_002",
+      "device_023",
+      "device_005",
+      "device_006",
+      "device_016",
+      "device_008",
+      "device_007",
+      "device_015",
+      "device_022",
+      "device_003",
+      "device_014",
+      "device_013",
+      "device_020",
+      "device_012",
+      "device_018",
+      "device_017"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4456 111 Ave, Edmonton, AB",
+    "deviceId": "device_009",
+    "signupDeadline": "05/12/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_011.jpg",
+    "disabled": false
+  },
+  "event_012": {
+    "name": "AI Workshop 12",
+    "eventDate": "06/15/2026",
+    "time": "16:30",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "10",
+    "waitListCapacity": 26,
+    "eventSlots": 24,
+    "waitlisted": [],
+    "finalists": [
+      "device_008",
+      "device_019",
+      "device_017",
+      "device_003",
+      "device_018",
+      "device_020",
+      "device_012",
+      "device_005",
+      "device_010",
+      "device_016",
+      "device_015",
+      "device_002",
+      "device_013",
+      "device_023",
+      "device_022",
+      "device_011",
+      "device_006",
+      "device_014"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_012",
+    "qrHash": "010e5a7026c33bed4d07e31e37e0c504fa380defd24ebd1d7fca688ae8d369ac",
+    "eventID": "event_012",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_008",
+      "device_019",
+      "device_017",
+      "device_003",
+      "device_018",
+      "device_020",
+      "device_012",
+      "device_005",
+      "device_010",
+      "device_016",
+      "device_015",
+      "device_002",
+      "device_013",
+      "device_023",
+      "device_022",
+      "device_011",
+      "device_006",
+      "device_014"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4752 Whyte Ave, Edmonton, AB",
+    "deviceId": "device_007",
+    "signupDeadline": "06/08/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_012.jpg",
+    "disabled": false
+  },
+  "event_013": {
+    "name": "Networking Lunch 13",
+    "eventDate": "07/03/2026",
+    "time": "10:45",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "15",
+    "waitListCapacity": 76,
+    "eventSlots": 51,
+    "waitlisted": [],
+    "finalists": [
+      "device_011",
+      "device_007",
+      "device_014",
+      "device_023",
+      "device_018",
+      "device_022",
+      "device_017",
+      "device_008",
+      "device_005",
+      "device_019",
+      "device_006",
+      "device_020",
+      "device_003",
+      "device_013",
+      "device_016",
+      "device_002",
+      "device_010",
+      "device_015"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_013",
+    "qrHash": "53f0d06f2b92cbd69f65393bfc8132e49f0440865d9ec55fbc3d16a9903c1a06",
+    "eventID": "event_013",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_011",
+      "device_007",
+      "device_014",
+      "device_023",
+      "device_018",
+      "device_022",
+      "device_017",
+      "device_008",
+      "device_005",
+      "device_019",
+      "device_006",
+      "device_020",
+      "device_003",
+      "device_013",
+      "device_016",
+      "device_002",
+      "device_010",
+      "device_015"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4483 Kingsway, Edmonton, AB",
+    "deviceId": "device_012",
+    "signupDeadline": "06/15/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_013.jpg",
+    "disabled": false
+  },
+  "event_014": {
+    "name": "Campus Concert 14",
+    "eventDate": "07/16/2026",
+    "time": "19:00",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "0",
+    "waitListCapacity": 98,
+    "eventSlots": 68,
+    "waitlisted": [],
+    "finalists": [
+      "device_022",
+      "device_020",
+      "device_014",
+      "device_007",
+      "device_010",
+      "device_023",
+      "device_008",
+      "device_003",
+      "device_017",
+      "device_012",
+      "device_011",
+      "device_013",
+      "device_005",
+      "device_016",
+      "device_006",
+      "device_015",
+      "device_019",
+      "device_018",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_014",
+    "qrHash": "73f99ce45182f73bf908cc7885b55b7b4fd449d7c71ab9872c7912065b90233b",
+    "eventID": "event_014",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_022",
+      "device_020",
+      "device_014",
+      "device_007",
+      "device_010",
+      "device_023",
+      "device_008",
+      "device_003",
+      "device_017",
+      "device_012",
+      "device_011",
+      "device_013",
+      "device_005",
+      "device_016",
+      "device_006",
+      "device_015",
+      "device_019",
+      "device_018",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_022": [
+          53.605283,
+          -113.517068
+        ]
+      },
+      {
+        "device_020": [
+          53.61803,
+          -113.406054
+        ]
+      },
+      {
+        "device_014": [
+          53.560843,
+          -113.578932
+        ]
+      },
+      {
+        "device_007": [
+          53.61402,
+          -113.585914
+        ]
+      },
+      {
+        "device_010": [
+          53.61411,
+          -113.530361
+        ]
+      },
+      {
+        "device_023": [
+          53.467062,
+          -113.391839
+        ]
+      },
+      {
+        "device_008": [
+          53.466951,
+          -113.374181
+        ]
+      },
+      {
+        "device_003": [
+          53.452609,
+          -113.581078
+        ]
+      },
+      {
+        "device_017": [
+          53.598059,
+          -113.358112
+        ]
+      },
+      {
+        "device_012": [
+          53.462721,
+          -113.408988
+        ]
+      },
+      {
+        "device_011": [
+          53.495054,
+          -113.45172
+        ]
+      },
+      {
+        "device_013": [
+          53.517572,
+          -113.598315
+        ]
+      },
+      {
+        "device_005": [
+          53.505856,
+          -113.437923
+        ]
+      },
+      {
+        "device_016": [
+          53.540716,
+          -113.362382
+        ]
+      },
+      {
+        "device_006": [
+          53.556556,
+          -113.380392
+        ]
+      },
+      {
+        "device_015": [
+          53.532951,
+          -113.473926
+        ]
+      },
+      {
+        "device_019": [
+          53.554968,
+          -113.556612
+        ]
+      },
+      {
+        "device_018": [
+          53.566348,
+          -113.542408
+        ]
+      },
+      {
+        "device_002": [
+          53.488673,
+          -113.595598
+        ]
+      }
+    ],
+    "location": "4456 111 Ave, Edmonton, AB",
+    "deviceId": "device_009",
+    "signupDeadline": "07/05/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_014.jpg",
+    "disabled": false
+  },
+  "event_015": {
+    "name": "Coding Bootcamp 15",
+    "eventDate": "05/17/2026",
+    "time": "14:15",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "30",
+    "waitListCapacity": 33,
+    "eventSlots": 22,
+    "waitlisted": [
+      "device_012"
+    ],
+    "finalists": [
+      "device_013",
+      "device_018",
+      "device_007",
+      "device_006",
+      "device_010",
+      "device_016",
+      "device_015",
+      "device_020",
+      "device_023",
+      "device_011",
+      "device_019",
+      "device_005",
+      "device_008",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [
+      "device_017",
+      "device_022",
+      "device_014"
+    ],
+    "reselected": [],
+    "qrCodeData": "QR::event_015",
+    "qrHash": "2a22c44996b0f34c0595ebdd106cabac5b9e6c6e2835eb9ab7cabe8aba90ee24",
+    "eventID": "event_015",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [
+      "device_012"
+    ],
+    "selectedNotificationsList": [
+      "device_017",
+      "device_022",
+      "device_014"
+    ],
+    "joinedNotificationsList": [
+      "device_013",
+      "device_018",
+      "device_007",
+      "device_006",
+      "device_010",
+      "device_016",
+      "device_015",
+      "device_020",
+      "device_023",
+      "device_011",
+      "device_019",
+      "device_005",
+      "device_008",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_013": [
+          53.547718,
+          -113.351973
+        ]
+      },
+      {
+        "device_018": [
+          53.500189,
+          -113.355955
+        ]
+      },
+      {
+        "device_007": [
+          53.561899,
+          -113.54589
+        ]
+      },
+      {
+        "device_006": [
+          53.546208,
+          -113.434834
+        ]
+      },
+      {
+        "device_010": [
+          53.576594,
+          -113.606758
+        ]
+      },
+      {
+        "device_016": [
+          53.553089,
+          -113.485884
+        ]
+      },
+      {
+        "device_015": [
+          53.603706,
+          -113.542728
+        ]
+      },
+      {
+        "device_020": [
+          53.585806,
+          -113.456092
+        ]
+      },
+      {
+        "device_023": [
+          53.509895,
+          -113.448113
+        ]
+      },
+      {
+        "device_011": [
+          53.555551,
+          -113.437004
+        ]
+      },
+      {
+        "device_019": [
+          53.572558,
+          -113.442021
+        ]
+      },
+      {
+        "device_005": [
+          53.592517,
+          -113.450373
+        ]
+      },
+      {
+        "device_008": [
+          53.603579,
+          -113.445488
+        ]
+      },
+      {
+        "device_002": [
+          53.502519,
+          -113.500978
+        ]
+      }
+    ],
+    "location": "8573 97 St, Edmonton, AB",
+    "deviceId": "device_003",
+    "signupDeadline": "05/04/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_015.jpg",
+    "disabled": false
+  },
+  "event_016": {
+    "name": "Entrepreneurship Panel 16",
+    "eventDate": "06/06/2026",
+    "time": "20:30",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "0",
+    "waitListCapacity": 93,
+    "eventSlots": 61,
+    "waitlisted": [],
+    "finalists": [
+      "device_011",
+      "device_008",
+      "device_019",
+      "device_016",
+      "device_015",
+      "device_018",
+      "device_003",
+      "device_020",
+      "device_005",
+      "device_017",
+      "device_023",
+      "device_014",
+      "device_012",
+      "device_010",
+      "device_013",
+      "device_022",
+      "device_006",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_016",
+    "qrHash": "48b9c7eda23a2971ef9597d27015c33c8575b82da19f186033d9d4735228c818",
+    "eventID": "event_016",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_011",
+      "device_008",
+      "device_019",
+      "device_016",
+      "device_015",
+      "device_018",
+      "device_003",
+      "device_020",
+      "device_005",
+      "device_017",
+      "device_023",
+      "device_014",
+      "device_012",
+      "device_010",
+      "device_013",
+      "device_022",
+      "device_006",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4752 Whyte Ave, Edmonton, AB",
+    "deviceId": "device_007",
+    "signupDeadline": "05/30/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_016.jpg",
+    "disabled": true
+  },
+  "event_017": {
+    "name": "Coding Bootcamp 17",
+    "eventDate": "06/19/2026",
+    "time": "12:00",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "0",
+    "waitListCapacity": 36,
+    "eventSlots": 29,
+    "waitlisted": [
+      "device_019",
+      "device_002"
+    ],
+    "finalists": [
+      "device_010",
+      "device_022",
+      "device_008",
+      "device_012",
+      "device_007",
+      "device_023",
+      "device_006",
+      "device_018",
+      "device_017",
+      "device_011"
+    ],
+    "cancelled": [],
+    "selected": [
+      "device_005",
+      "device_016",
+      "device_015",
+      "device_020",
+      "device_014"
+    ],
+    "reselected": [
+      "device_013"
+    ],
+    "qrCodeData": "QR::event_017",
+    "qrHash": "504b9d4946d743ba13db4b99f45579d0972e4044954dc287f39755fef668c573",
+    "eventID": "event_017",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [
+      "device_019",
+      "device_002"
+    ],
+    "selectedNotificationsList": [
+      "device_005",
+      "device_016",
+      "device_015",
+      "device_020",
+      "device_014",
+      "device_013"
+    ],
+    "joinedNotificationsList": [
+      "device_010",
+      "device_022",
+      "device_008",
+      "device_012",
+      "device_007",
+      "device_023",
+      "device_006",
+      "device_018",
+      "device_017",
+      "device_011"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "8573 97 St, Edmonton, AB",
+    "deviceId": "device_003",
+    "signupDeadline": "06/01/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_017.jpg",
+    "disabled": false
+  },
+  "event_018": {
+    "name": "Wellness Session 18",
+    "eventDate": "06/23/2026",
+    "time": "15:45",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "50",
+    "waitListCapacity": 42,
+    "eventSlots": 15,
+    "waitlisted": [
+      "device_013",
+      "device_018",
+      "device_015",
+      "device_012",
+      "device_017",
+      "device_010",
+      "device_020",
+      "device_022",
+      "device_002",
+      "device_003",
+      "device_011",
+      "device_023",
+      "device_006"
+    ],
+    "finalists": [
+      "device_019",
+      "device_016",
+      "device_014",
+      "device_007",
+      "device_005"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_018",
+    "qrHash": "d3a3627b9b07d14484a1ed4632a0dba57d760b980b612c56e8bda405ea8f2dd8",
+    "eventID": "event_018",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [
+      "device_013",
+      "device_018",
+      "device_015",
+      "device_012",
+      "device_017",
+      "device_010",
+      "device_020",
+      "device_022",
+      "device_002",
+      "device_003",
+      "device_011",
+      "device_023",
+      "device_006"
+    ],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_019",
+      "device_016",
+      "device_014",
+      "device_007",
+      "device_005"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008",
+    "signupDeadline": "06/16/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_018.jpg",
+    "disabled": true
+  },
+  "event_019": {
+    "name": "Research Showcase 19",
+    "eventDate": "06/22/2026",
+    "time": "17:30",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "40",
+    "waitListCapacity": 31,
+    "eventSlots": 23,
+    "waitlisted": [
+      "device_013",
+      "device_008",
+      "device_020",
+      "device_011",
+      "device_007",
+      "device_012",
+      "device_023"
+    ],
+    "finalists": [
+      "device_018",
+      "device_015",
+      "device_019",
+      "device_005",
+      "device_016",
+      "device_010",
+      "device_017",
+      "device_022",
+      "device_003",
+      "device_014",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_019",
+    "qrHash": "74a7377d0cf08e44ad162bc2b9661bf26453989cb65d899ea3541731dc0fc2a6",
+    "eventID": "event_019",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [
+      "device_013",
+      "device_008",
+      "device_020",
+      "device_011",
+      "device_007",
+      "device_012",
+      "device_023"
+    ],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_018",
+      "device_015",
+      "device_019",
+      "device_005",
+      "device_016",
+      "device_010",
+      "device_017",
+      "device_022",
+      "device_003",
+      "device_014",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "06/15/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_019.jpg",
+    "disabled": false
+  },
+  "event_020": {
+    "name": "Networking Lunch 20",
+    "eventDate": "06/17/2026",
+    "time": "17:30",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "5",
+    "waitListCapacity": 76,
+    "eventSlots": 60,
+    "waitlisted": [],
+    "finalists": [
+      "device_011",
+      "device_005",
+      "device_023",
+      "device_017",
+      "device_015",
+      "device_019",
+      "device_008",
+      "device_010",
+      "device_016",
+      "device_014",
+      "device_020",
+      "device_013",
+      "device_012",
+      "device_006",
+      "device_022",
+      "device_007",
+      "device_018",
+      "device_002"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_020",
+    "qrHash": "707ed0e6414104dc4e8da3470a973b334bf72340d84172483b28e6fa8554e6f9",
+    "eventID": "event_020",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_011",
+      "device_005",
+      "device_023",
+      "device_017",
+      "device_015",
+      "device_019",
+      "device_008",
+      "device_010",
+      "device_016",
+      "device_014",
+      "device_020",
+      "device_013",
+      "device_012",
+      "device_006",
+      "device_022",
+      "device_007",
+      "device_018",
+      "device_002"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_011": [
+          53.521372,
+          -113.527958
+        ]
+      },
+      {
+        "device_005": [
+          53.512909,
+          -113.425169
+        ]
+      },
+      {
+        "device_023": [
+          53.582062,
+          -113.46675
+        ]
+      },
+      {
+        "device_017": [
+          53.464443,
+          -113.605796
+        ]
+      },
+      {
+        "device_015": [
+          53.47676,
+          -113.453184
+        ]
+      },
+      {
+        "device_019": [
+          53.564575,
+          -113.546532
+        ]
+      },
+      {
+        "device_008": [
+          53.56253,
+          -113.488871
+        ]
+      },
+      {
+        "device_010": [
+          53.525148,
+          -113.546245
+        ]
+      },
+      {
+        "device_016": [
+          53.57834,
+          -113.589269
+        ]
+      },
+      {
+        "device_014": [
+          53.523085,
+          -113.543523
+        ]
+      },
+      {
+        "device_020": [
+          53.565343,
+          -113.488609
+        ]
+      },
+      {
+        "device_013": [
+          53.563413,
+          -113.607737
+        ]
+      },
+      {
+        "device_012": [
+          53.517195,
+          -113.458182
+        ]
+      },
+      {
+        "device_006": [
+          53.451307,
+          -113.538617
+        ]
+      },
+      {
+        "device_022": [
+          53.48591,
+          -113.582947
+        ]
+      },
+      {
+        "device_007": [
+          53.493438,
+          -113.531407
+        ]
+      },
+      {
+        "device_018": [
+          53.451314,
+          -113.418306
+        ]
+      },
+      {
+        "device_002": [
+          53.479868,
+          -113.517344
+        ]
+      }
+    ],
+    "location": "8573 97 St, Edmonton, AB",
+    "deviceId": "device_003",
+    "signupDeadline": "06/05/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_020.jpg",
+    "disabled": false
+  },
+  "event_021": {
+    "name": "Case Competition 21",
+    "eventDate": "05/21/2026",
+    "time": "12:15",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "0",
+    "waitListCapacity": 94,
+    "eventSlots": 69,
+    "waitlisted": [],
+    "finalists": [
+      "device_018",
+      "device_023",
+      "device_016",
+      "device_012",
+      "device_019",
+      "device_007",
+      "device_011",
+      "device_005",
+      "device_020",
+      "device_015",
+      "device_003",
+      "device_002",
+      "device_014",
+      "device_006",
+      "device_013",
+      "device_008",
+      "device_017",
+      "device_010"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_021",
+    "qrHash": "ada7f95a283626bb6b55ca243d08d287d8ca32d78e5ad401f2ea23c9641655a1",
+    "eventID": "event_021",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_018",
+      "device_023",
+      "device_016",
+      "device_012",
+      "device_019",
+      "device_007",
+      "device_011",
+      "device_005",
+      "device_020",
+      "device_015",
+      "device_003",
+      "device_002",
+      "device_014",
+      "device_006",
+      "device_013",
+      "device_008",
+      "device_017",
+      "device_010"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022",
+    "signupDeadline": "05/08/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_021.jpg",
+    "disabled": false
+  },
+  "event_022": {
+    "name": "Leadership Seminar 22",
+    "eventDate": "06/03/2026",
+    "time": "16:15",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "30",
+    "waitListCapacity": 110,
+    "eventSlots": 74,
+    "waitlisted": [],
+    "finalists": [
+      "device_013",
+      "device_019",
+      "device_008",
+      "device_012",
+      "device_015",
+      "device_016",
+      "device_003",
+      "device_022",
+      "device_017",
+      "device_020",
+      "device_007",
+      "device_018",
+      "device_011",
+      "device_002",
+      "device_010",
+      "device_014",
+      "device_005",
+      "device_023"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_022",
+    "qrHash": "647b6cba81086dc28c58e9306f0baa95d9b341e9152ea4f5b82fbba1e74e58f0",
+    "eventID": "event_022",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_013",
+      "device_019",
+      "device_008",
+      "device_012",
+      "device_015",
+      "device_016",
+      "device_003",
+      "device_022",
+      "device_017",
+      "device_020",
+      "device_007",
+      "device_018",
+      "device_011",
+      "device_002",
+      "device_010",
+      "device_014",
+      "device_005",
+      "device_023"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "05/16/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_022.jpg",
+    "disabled": false
+  },
+  "event_023": {
+    "name": "Entrepreneurship Panel 23",
+    "eventDate": "07/15/2026",
+    "time": "12:15",
+    "description": "A hands-on session featuring practical activities and group participation.",
+    "price": "50",
+    "waitListCapacity": 42,
+    "eventSlots": 20,
+    "waitlisted": [],
+    "finalists": [
+      "device_023",
+      "device_020",
+      "device_010",
+      "device_002",
+      "device_019",
+      "device_005",
+      "device_014",
+      "device_016",
+      "device_012",
+      "device_017",
+      "device_013",
+      "device_018",
+      "device_003",
+      "device_011",
+      "device_007",
+      "device_008"
+    ],
+    "cancelled": [],
+    "selected": [
+      "device_022",
+      "device_015"
+    ],
+    "reselected": [],
+    "qrCodeData": "QR::event_023",
+    "qrHash": "09088b70bf74fc9736060bb30688a97722234c60e2fd88feaa3f9a999220f69b",
+    "eventID": "event_023",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [
+      "device_022",
+      "device_015"
+    ],
+    "joinedNotificationsList": [
+      "device_023",
+      "device_020",
+      "device_010",
+      "device_002",
+      "device_019",
+      "device_005",
+      "device_014",
+      "device_016",
+      "device_012",
+      "device_017",
+      "device_013",
+      "device_018",
+      "device_003",
+      "device_011",
+      "device_007",
+      "device_008"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_023": [
+          53.521979,
+          -113.522306
+        ]
+      },
+      {
+        "device_020": [
+          53.511642,
+          -113.571329
+        ]
+      },
+      {
+        "device_010": [
+          53.486413,
+          -113.36413
+        ]
+      },
+      {
+        "device_002": [
+          53.532666,
+          -113.558833
+        ]
+      },
+      {
+        "device_019": [
+          53.473386,
+          -113.599165
+        ]
+      },
+      {
+        "device_005": [
+          53.593553,
+          -113.592692
+        ]
+      },
+      {
+        "device_014": [
+          53.581049,
+          -113.394518
+        ]
+      },
+      {
+        "device_016": [
+          53.600226,
+          -113.609808
+        ]
+      },
+      {
+        "device_012": [
+          53.50725,
+          -113.413097
+        ]
+      },
+      {
+        "device_017": [
+          53.472278,
+          -113.518286
+        ]
+      },
+      {
+        "device_013": [
+          53.477582,
+          -113.395537
+        ]
+      },
+      {
+        "device_018": [
+          53.581087,
+          -113.401558
+        ]
+      },
+      {
+        "device_003": [
+          53.478142,
+          -113.501828
+        ]
+      },
+      {
+        "device_011": [
+          53.519846,
+          -113.437382
+        ]
+      },
+      {
+        "device_007": [
+          53.49038,
+          -113.500066
+        ]
+      },
+      {
+        "device_008": [
+          53.498438,
+          -113.417895
+        ]
+      }
+    ],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "07/07/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_023.jpg",
+    "disabled": false
+  },
+  "event_024": {
+    "name": "Design Sprint 24",
+    "eventDate": "06/28/2026",
+    "time": "12:00",
+    "description": "A hands-on session featuring practical activities and group participation.",
+    "price": "30",
+    "waitListCapacity": 89,
+    "eventSlots": 71,
+    "waitlisted": [],
+    "finalists": [
+      "device_013",
+      "device_019",
+      "device_003",
+      "device_007",
+      "device_022",
+      "device_014",
+      "device_023",
+      "device_016",
+      "device_010",
+      "device_002",
+      "device_012",
+      "device_018",
+      "device_011",
+      "device_015",
+      "device_017",
+      "device_020",
+      "device_006",
+      "device_005"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_024",
+    "qrHash": "882668189007965ce315a15d3130843ab7a5b55777e1d042ddc114b6cd435e96",
+    "eventID": "event_024",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_013",
+      "device_019",
+      "device_003",
+      "device_007",
+      "device_022",
+      "device_014",
+      "device_023",
+      "device_016",
+      "device_010",
+      "device_002",
+      "device_012",
+      "device_018",
+      "device_011",
+      "device_015",
+      "device_017",
+      "device_020",
+      "device_006",
+      "device_005"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008",
+    "signupDeadline": "06/07/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_024.jpg",
+    "disabled": false
+  },
+  "event_025": {
+    "name": "Resume Clinic 25",
+    "eventDate": "05/16/2026",
+    "time": "09:30",
+    "description": "A hands-on session featuring practical activities and group participation.",
+    "price": "50",
+    "waitListCapacity": 128,
+    "eventSlots": 75,
+    "waitlisted": [],
+    "finalists": [
+      "device_006",
+      "device_013",
+      "device_015",
+      "device_017",
+      "device_020",
+      "device_018",
+      "device_022",
+      "device_008",
+      "device_003",
+      "device_002",
+      "device_016",
+      "device_011",
+      "device_014",
+      "device_019",
+      "device_005",
+      "device_023",
+      "device_010",
+      "device_012"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_025",
+    "qrHash": "1150331605b95fca00db885c5af5bcf33cdebbc6dc6375e55469b852cab9c800",
+    "eventID": "event_025",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_006",
+      "device_013",
+      "device_015",
+      "device_017",
+      "device_020",
+      "device_018",
+      "device_022",
+      "device_008",
+      "device_003",
+      "device_002",
+      "device_016",
+      "device_011",
+      "device_014",
+      "device_019",
+      "device_005",
+      "device_023",
+      "device_010",
+      "device_012"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_006": [
+          53.547013,
+          -113.569425
+        ]
+      },
+      {
+        "device_013": [
+          53.563597,
+          -113.478659
+        ]
+      },
+      {
+        "device_015": [
+          53.511303,
+          -113.362581
+        ]
+      },
+      {
+        "device_017": [
+          53.542494,
+          -113.407669
+        ]
+      },
+      {
+        "device_020": [
+          53.536296,
+          -113.61451
+        ]
+      },
+      {
+        "device_018": [
+          53.598466,
+          -113.608246
+        ]
+      },
+      {
+        "device_022": [
+          53.51577,
+          -113.519208
+        ]
+      },
+      {
+        "device_008": [
+          53.577044,
+          -113.523585
+        ]
+      },
+      {
+        "device_003": [
+          53.461485,
+          -113.554896
+        ]
+      },
+      {
+        "device_002": [
+          53.561708,
+          -113.592011
+        ]
+      },
+      {
+        "device_016": [
+          53.548924,
+          -113.415697
+        ]
+      },
+      {
+        "device_011": [
+          53.47268,
+          -113.524879
+        ]
+      },
+      {
+        "device_014": [
+          53.507553,
+          -113.446445
+        ]
+      },
+      {
+        "device_019": [
+          53.591165,
+          -113.435136
+        ]
+      },
+      {
+        "device_005": [
+          53.616739,
+          -113.490797
+        ]
+      },
+      {
+        "device_023": [
+          53.480987,
+          -113.58359
+        ]
+      },
+      {
+        "device_010": [
+          53.571728,
+          -113.365227
+        ]
+      },
+      {
+        "device_012": [
+          53.456287,
+          -113.56557
+        ]
+      }
+    ],
+    "location": "4752 Whyte Ave, Edmonton, AB",
+    "deviceId": "device_007",
+    "signupDeadline": "05/04/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_025.jpg",
+    "disabled": false
+  },
+  "event_026": {
+    "name": "Tech Talk 26",
+    "eventDate": "06/17/2026",
+    "time": "17:00",
+    "description": "A hands-on session featuring practical activities and group participation.",
+    "price": "50",
+    "waitListCapacity": 42,
+    "eventSlots": 21,
+    "waitlisted": [
+      "device_010",
+      "device_007"
+    ],
+    "finalists": [
+      "device_011",
+      "device_019",
+      "device_017",
+      "device_022",
+      "device_006",
+      "device_015",
+      "device_014",
+      "device_003",
+      "device_016",
+      "device_013",
+      "device_020",
+      "device_002",
+      "device_005",
+      "device_018",
+      "device_012",
+      "device_023"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_026",
+    "qrHash": "b7737a4bf687630af91c58e7c1ffe0ec6de6d419f40332c203d7969ed886d783",
+    "eventID": "event_026",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [
+      "device_010",
+      "device_007"
+    ],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_011",
+      "device_019",
+      "device_017",
+      "device_022",
+      "device_006",
+      "device_015",
+      "device_014",
+      "device_003",
+      "device_016",
+      "device_013",
+      "device_020",
+      "device_002",
+      "device_005",
+      "device_018",
+      "device_012",
+      "device_023"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_011": [
+          53.619686,
+          -113.54587
+        ]
+      },
+      {
+        "device_019": [
+          53.616605,
+          -113.364066
+        ]
+      },
+      {
+        "device_017": [
+          53.462757,
+          -113.447872
+        ]
+      },
+      {
+        "device_022": [
+          53.511763,
+          -113.403704
+        ]
+      },
+      {
+        "device_006": [
+          53.5655,
+          -113.362747
+        ]
+      },
+      {
+        "device_015": [
+          53.474273,
+          -113.455955
+        ]
+      },
+      {
+        "device_014": [
+          53.582823,
+          -113.610604
+        ]
+      },
+      {
+        "device_003": [
+          53.46143,
+          -113.409801
+        ]
+      },
+      {
+        "device_016": [
+          53.512276,
+          -113.516629
+        ]
+      },
+      {
+        "device_013": [
+          53.546432,
+          -113.456624
+        ]
+      },
+      {
+        "device_020": [
+          53.565441,
+          -113.363818
+        ]
+      },
+      {
+        "device_002": [
+          53.513242,
+          -113.413967
+        ]
+      },
+      {
+        "device_005": [
+          53.547567,
+          -113.477046
+        ]
+      },
+      {
+        "device_018": [
+          53.517666,
+          -113.444619
+        ]
+      },
+      {
+        "device_012": [
+          53.492434,
+          -113.589369
+        ]
+      },
+      {
+        "device_023": [
+          53.575065,
+          -113.485258
+        ]
+      }
+    ],
+    "location": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008",
+    "signupDeadline": "06/03/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_026.jpg",
+    "disabled": false
+  },
+  "event_027": {
+    "name": "AI Workshop 27",
+    "eventDate": "08/08/2026",
+    "time": "16:45",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "15",
+    "waitListCapacity": 44,
+    "eventSlots": 40,
+    "waitlisted": [],
+    "finalists": [
+      "device_015",
+      "device_002",
+      "device_018",
+      "device_005",
+      "device_013",
+      "device_023",
+      "device_011",
+      "device_008",
+      "device_019",
+      "device_016",
+      "device_007",
+      "device_020",
+      "device_003",
+      "device_014",
+      "device_022",
+      "device_012",
+      "device_017",
+      "device_006",
+      "device_010"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_027",
+    "qrHash": "45f20b4cdf2d9d684671d4be5c74086ef0739968d321f75ce7f79d92e89f243f",
+    "eventID": "event_027",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_015",
+      "device_002",
+      "device_018",
+      "device_005",
+      "device_013",
+      "device_023",
+      "device_011",
+      "device_008",
+      "device_019",
+      "device_016",
+      "device_007",
+      "device_020",
+      "device_003",
+      "device_014",
+      "device_022",
+      "device_012",
+      "device_017",
+      "device_006",
+      "device_010"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4456 111 Ave, Edmonton, AB",
+    "deviceId": "device_009",
+    "signupDeadline": "07/21/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_027.jpg",
+    "disabled": false
+  },
+  "event_028": {
+    "name": "Wellness Session 28",
+    "eventDate": "07/06/2026",
+    "time": "13:45",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "0",
+    "waitListCapacity": 38,
+    "eventSlots": 22,
+    "waitlisted": [],
+    "finalists": [
+      "device_019",
+      "device_014",
+      "device_010",
+      "device_022",
+      "device_015",
+      "device_013",
+      "device_006",
+      "device_018",
+      "device_003",
+      "device_017",
+      "device_023",
+      "device_011",
+      "device_012",
+      "device_002",
+      "device_020",
+      "device_016"
+    ],
+    "cancelled": [],
+    "selected": [
+      "device_005"
+    ],
+    "reselected": [
+      "device_008"
+    ],
+    "qrCodeData": "QR::event_028",
+    "qrHash": "3c1df38ad16b3272b17de469b9c70aebb7e2b01f6dc619c933f7c84ddf815030",
+    "eventID": "event_028",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [
+      "device_005",
+      "device_008"
+    ],
+    "joinedNotificationsList": [
+      "device_019",
+      "device_014",
+      "device_010",
+      "device_022",
+      "device_015",
+      "device_013",
+      "device_006",
+      "device_018",
+      "device_003",
+      "device_017",
+      "device_023",
+      "device_011",
+      "device_012",
+      "device_002",
+      "device_020",
+      "device_016"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_019": [
+          53.500564,
+          -113.600297
+        ]
+      },
+      {
+        "device_014": [
+          53.460185,
+          -113.501307
+        ]
+      },
+      {
+        "device_010": [
+          53.532323,
+          -113.564914
+        ]
+      },
+      {
+        "device_022": [
+          53.553132,
+          -113.535603
+        ]
+      },
+      {
+        "device_015": [
+          53.572122,
+          -113.421766
+        ]
+      },
+      {
+        "device_013": [
+          53.596332,
+          -113.356649
+        ]
+      },
+      {
+        "device_006": [
+          53.47223,
+          -113.519954
+        ]
+      },
+      {
+        "device_018": [
+          53.545481,
+          -113.533839
+        ]
+      },
+      {
+        "device_003": [
+          53.5293,
+          -113.547783
+        ]
+      },
+      {
+        "device_017": [
+          53.492146,
+          -113.593861
+        ]
+      },
+      {
+        "device_023": [
+          53.499336,
+          -113.51628
+        ]
+      },
+      {
+        "device_011": [
+          53.554614,
+          -113.552967
+        ]
+      },
+      {
+        "device_012": [
+          53.597102,
+          -113.576881
+        ]
+      },
+      {
+        "device_002": [
+          53.505664,
+          -113.464024
+        ]
+      },
+      {
+        "device_020": [
+          53.503162,
+          -113.413957
+        ]
+      },
+      {
+        "device_016": [
+          53.534705,
+          -113.481024
+        ]
+      }
+    ],
+    "location": "4752 Whyte Ave, Edmonton, AB",
+    "deviceId": "device_007",
+    "signupDeadline": "06/17/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_028.jpg",
+    "disabled": false
+  },
+  "event_029": {
+    "name": "Coding Bootcamp 29",
+    "eventDate": "06/11/2026",
+    "time": "16:15",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "40",
+    "waitListCapacity": 60,
+    "eventSlots": 60,
+    "waitlisted": [],
+    "finalists": [
+      "device_005",
+      "device_012",
+      "device_010",
+      "device_011",
+      "device_007",
+      "device_017",
+      "device_019",
+      "device_002",
+      "device_013",
+      "device_023",
+      "device_020",
+      "device_016",
+      "device_003",
+      "device_008",
+      "device_014",
+      "device_018",
+      "device_015",
+      "device_006"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_029",
+    "qrHash": "dd258c133637755a307b236bb73545e72a014ae2004a9b40be997b5043bb2c5a",
+    "eventID": "event_029",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_005",
+      "device_012",
+      "device_010",
+      "device_011",
+      "device_007",
+      "device_017",
+      "device_019",
+      "device_002",
+      "device_013",
+      "device_023",
+      "device_020",
+      "device_016",
+      "device_003",
+      "device_008",
+      "device_014",
+      "device_018",
+      "device_015",
+      "device_006"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_005": [
+          53.48384,
+          -113.482537
+        ]
+      },
+      {
+        "device_012": [
+          53.535013,
+          -113.607768
+        ]
+      },
+      {
+        "device_010": [
+          53.473296,
+          -113.530079
+        ]
+      },
+      {
+        "device_011": [
+          53.530537,
+          -113.496613
+        ]
+      },
+      {
+        "device_007": [
+          53.553064,
+          -113.480813
+        ]
+      },
+      {
+        "device_017": [
+          53.505754,
+          -113.454472
+        ]
+      },
+      {
+        "device_019": [
+          53.477625,
+          -113.352534
+        ]
+      },
+      {
+        "device_002": [
+          53.575684,
+          -113.539207
+        ]
+      },
+      {
+        "device_013": [
+          53.507183,
+          -113.396362
+        ]
+      },
+      {
+        "device_023": [
+          53.540498,
+          -113.42864
+        ]
+      },
+      {
+        "device_020": [
+          53.500964,
+          -113.399748
+        ]
+      },
+      {
+        "device_016": [
+          53.512621,
+          -113.438072
+        ]
+      },
+      {
+        "device_003": [
+          53.616583,
+          -113.4624
+        ]
+      },
+      {
+        "device_008": [
+          53.585448,
+          -113.424162
+        ]
+      },
+      {
+        "device_014": [
+          53.566967,
+          -113.612805
+        ]
+      },
+      {
+        "device_018": [
+          53.53068,
+          -113.358891
+        ]
+      },
+      {
+        "device_015": [
+          53.583094,
+          -113.410436
+        ]
+      },
+      {
+        "device_006": [
+          53.548198,
+          -113.425222
+        ]
+      }
+    ],
+    "location": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022",
+    "signupDeadline": "06/02/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_029.jpg",
+    "disabled": false
+  },
+  "event_030": {
+    "name": "Career Fair 30",
+    "eventDate": "05/16/2026",
+    "time": "09:15",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "50",
+    "waitListCapacity": 29,
+    "eventSlots": 29,
+    "waitlisted": [],
+    "finalists": [
+      "device_005",
+      "device_017",
+      "device_011",
+      "device_016",
+      "device_013",
+      "device_020",
+      "device_018",
+      "device_022",
+      "device_002",
+      "device_019",
+      "device_012",
+      "device_023",
+      "device_003",
+      "device_014",
+      "device_015",
+      "device_007",
+      "device_006",
+      "device_010"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_030",
+    "qrHash": "99d8d21fc62cf62c11e4d3322aacf98ca47f94125119ada22ac485304433281a",
+    "eventID": "event_030",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_005",
+      "device_017",
+      "device_011",
+      "device_016",
+      "device_013",
+      "device_020",
+      "device_018",
+      "device_022",
+      "device_002",
+      "device_019",
+      "device_012",
+      "device_023",
+      "device_003",
+      "device_014",
+      "device_015",
+      "device_007",
+      "device_006",
+      "device_010"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_005": [
+          53.569833,
+          -113.433635
+        ]
+      },
+      {
+        "device_017": [
+          53.533131,
+          -113.490453
+        ]
+      },
+      {
+        "device_011": [
+          53.545283,
+          -113.367689
+        ]
+      },
+      {
+        "device_016": [
+          53.572683,
+          -113.542297
+        ]
+      },
+      {
+        "device_013": [
+          53.547491,
+          -113.473338
+        ]
+      },
+      {
+        "device_020": [
+          53.602279,
+          -113.513476
+        ]
+      },
+      {
+        "device_018": [
+          53.508673,
+          -113.411273
+        ]
+      },
+      {
+        "device_022": [
+          53.474901,
+          -113.608642
+        ]
+      },
+      {
+        "device_002": [
+          53.612403,
+          -113.598662
+        ]
+      },
+      {
+        "device_019": [
+          53.607082,
+          -113.442888
+        ]
+      },
+      {
+        "device_012": [
+          53.577048,
+          -113.562224
+        ]
+      },
+      {
+        "device_023": [
+          53.590752,
+          -113.546794
+        ]
+      },
+      {
+        "device_003": [
+          53.545543,
+          -113.546662
+        ]
+      },
+      {
+        "device_014": [
+          53.468569,
+          -113.419959
+        ]
+      },
+      {
+        "device_015": [
+          53.490678,
+          -113.606293
+        ]
+      },
+      {
+        "device_007": [
+          53.603881,
+          -113.559069
+        ]
+      },
+      {
+        "device_006": [
+          53.489582,
+          -113.592947
+        ]
+      },
+      {
+        "device_010": [
+          53.50615,
+          -113.492451
+        ]
+      }
+    ],
+    "location": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008",
+    "signupDeadline": "04/25/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_030.jpg",
+    "disabled": false
+  },
+  "event_031": {
+    "name": "Networking Lunch 31",
+    "eventDate": "08/16/2026",
+    "time": "11:45",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "30",
+    "waitListCapacity": 76,
+    "eventSlots": 56,
+    "waitlisted": [],
+    "finalists": [
+      "device_002",
+      "device_012",
+      "device_007",
+      "device_013",
+      "device_017",
+      "device_016",
+      "device_015",
+      "device_005",
+      "device_003",
+      "device_011",
+      "device_018",
+      "device_019",
+      "device_023",
+      "device_010",
+      "device_020",
+      "device_022",
+      "device_014",
+      "device_006"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_031",
+    "qrHash": "5f17951aa213aab303efc4b17e095d62a0f4280872ac32e8aee346caeb9937b5",
+    "eventID": "event_031",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_002",
+      "device_012",
+      "device_007",
+      "device_013",
+      "device_017",
+      "device_016",
+      "device_015",
+      "device_005",
+      "device_003",
+      "device_011",
+      "device_018",
+      "device_019",
+      "device_023",
+      "device_010",
+      "device_020",
+      "device_022",
+      "device_014",
+      "device_006"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_002": [
+          53.575225,
+          -113.406493
+        ]
+      },
+      {
+        "device_012": [
+          53.546523,
+          -113.415534
+        ]
+      },
+      {
+        "device_007": [
+          53.479834,
+          -113.38884
+        ]
+      },
+      {
+        "device_013": [
+          53.602497,
+          -113.396713
+        ]
+      },
+      {
+        "device_017": [
+          53.537598,
+          -113.596581
+        ]
+      },
+      {
+        "device_016": [
+          53.563773,
+          -113.570109
+        ]
+      },
+      {
+        "device_015": [
+          53.473904,
+          -113.532628
+        ]
+      },
+      {
+        "device_005": [
+          53.492168,
+          -113.549588
+        ]
+      },
+      {
+        "device_003": [
+          53.490039,
+          -113.416486
+        ]
+      },
+      {
+        "device_011": [
+          53.612186,
+          -113.538475
+        ]
+      },
+      {
+        "device_018": [
+          53.57289,
+          -113.616912
+        ]
+      },
+      {
+        "device_019": [
+          53.561126,
+          -113.432952
+        ]
+      },
+      {
+        "device_023": [
+          53.460561,
+          -113.588079
+        ]
+      },
+      {
+        "device_010": [
+          53.502157,
+          -113.510538
+        ]
+      },
+      {
+        "device_020": [
+          53.535428,
+          -113.378318
+        ]
+      },
+      {
+        "device_022": [
+          53.569605,
+          -113.536036
+        ]
+      },
+      {
+        "device_014": [
+          53.469961,
+          -113.372645
+        ]
+      },
+      {
+        "device_006": [
+          53.500156,
+          -113.454051
+        ]
+      }
+    ],
+    "location": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008",
+    "signupDeadline": "08/04/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_031.jpg",
+    "disabled": false
+  },
+  "event_032": {
+    "name": "Hack Night 32",
+    "eventDate": "08/16/2026",
+    "time": "15:30",
+    "description": "A student-focused event with networking and collaboration opportunities.",
+    "price": "10",
+    "waitListCapacity": 57,
+    "eventSlots": 42,
+    "waitlisted": [],
+    "finalists": [
+      "device_008",
+      "device_020",
+      "device_002",
+      "device_006",
+      "device_007",
+      "device_015",
+      "device_012",
+      "device_019",
+      "device_014",
+      "device_023",
+      "device_010",
+      "device_005",
+      "device_013",
+      "device_017",
+      "device_016",
+      "device_018",
+      "device_011",
+      "device_003"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_032",
+    "qrHash": "6db32d9a12833e9bff28d5224b0115687c81c678fcd3cb27a0a6d1542a16e961",
+    "eventID": "event_032",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_008",
+      "device_020",
+      "device_002",
+      "device_006",
+      "device_007",
+      "device_015",
+      "device_012",
+      "device_019",
+      "device_014",
+      "device_023",
+      "device_010",
+      "device_005",
+      "device_013",
+      "device_017",
+      "device_016",
+      "device_018",
+      "device_011",
+      "device_003"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022",
+    "signupDeadline": "07/27/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_032.jpg",
+    "disabled": true
+  },
+  "event_033": {
+    "name": "Campus Concert 33",
+    "eventDate": "08/09/2026",
+    "time": "09:45",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "5",
+    "waitListCapacity": 36,
+    "eventSlots": 22,
+    "waitlisted": [
+      "device_007",
+      "device_020"
+    ],
+    "finalists": [
+      "device_016",
+      "device_015",
+      "device_014",
+      "device_019",
+      "device_011",
+      "device_018",
+      "device_002",
+      "device_013",
+      "device_017",
+      "device_022",
+      "device_003",
+      "device_008",
+      "device_005",
+      "device_023",
+      "device_010"
+    ],
+    "cancelled": [],
+    "selected": [
+      "device_006"
+    ],
+    "reselected": [],
+    "qrCodeData": "QR::event_033",
+    "qrHash": "5f67bf103fcae0895c2070b075899b3e4ff46b097b0c633c104a40d3b0d54738",
+    "eventID": "event_033",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [
+      "device_007",
+      "device_020"
+    ],
+    "selectedNotificationsList": [
+      "device_006"
+    ],
+    "joinedNotificationsList": [
+      "device_016",
+      "device_015",
+      "device_014",
+      "device_019",
+      "device_011",
+      "device_018",
+      "device_002",
+      "device_013",
+      "device_017",
+      "device_022",
+      "device_003",
+      "device_008",
+      "device_005",
+      "device_023",
+      "device_010"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4483 Kingsway, Edmonton, AB",
+    "deviceId": "device_012",
+    "signupDeadline": "08/04/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_033.jpg",
+    "disabled": false
+  },
+  "event_034": {
+    "name": "Data Science Meetup 34",
+    "eventDate": "05/24/2026",
+    "time": "20:45",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "0",
+    "waitListCapacity": 115,
+    "eventSlots": 72,
+    "waitlisted": [],
+    "finalists": [
+      "device_012",
+      "device_017",
+      "device_020",
+      "device_022",
+      "device_011",
+      "device_007",
+      "device_010",
+      "device_015",
+      "device_019",
+      "device_016",
+      "device_018",
+      "device_003",
+      "device_014",
+      "device_023",
+      "device_002",
+      "device_005",
+      "device_013",
+      "device_008"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_034",
+    "qrHash": "efcb2c814f55287c1ae0d13cddec4e4aef0b42ad6a5842b40772b94c513b0311",
+    "eventID": "event_034",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_012",
+      "device_017",
+      "device_020",
+      "device_022",
+      "device_011",
+      "device_007",
+      "device_010",
+      "device_015",
+      "device_019",
+      "device_016",
+      "device_018",
+      "device_003",
+      "device_014",
+      "device_023",
+      "device_002",
+      "device_005",
+      "device_013",
+      "device_008"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "05/20/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_034.jpg",
+    "disabled": false
+  },
+  "event_035": {
+    "name": "Data Science Meetup 35",
+    "eventDate": "06/11/2026",
+    "time": "13:45",
+    "description": "An event that blends learning, community, and engagement in one setting.",
+    "price": "30",
+    "waitListCapacity": 62,
+    "eventSlots": 53,
+    "waitlisted": [],
+    "finalists": [
+      "device_015",
+      "device_014",
+      "device_012",
+      "device_002",
+      "device_018",
+      "device_003",
+      "device_016",
+      "device_023",
+      "device_011",
+      "device_013",
+      "device_017",
+      "device_006",
+      "device_019",
+      "device_010",
+      "device_008",
+      "device_005",
+      "device_020",
+      "device_007"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_035",
+    "qrHash": "80c9573bb845a8513de9579b79b46970486411de40ed8cc8517b972c7bfb03b2",
+    "eventID": "event_035",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_015",
+      "device_014",
+      "device_012",
+      "device_002",
+      "device_018",
+      "device_003",
+      "device_016",
+      "device_023",
+      "device_011",
+      "device_013",
+      "device_017",
+      "device_006",
+      "device_019",
+      "device_010",
+      "device_008",
+      "device_005",
+      "device_020",
+      "device_007"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022",
+    "signupDeadline": "06/01/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_035.jpg",
+    "disabled": false
+  },
+  "event_036": {
+    "name": "Research Showcase 36",
+    "eventDate": "07/16/2026",
+    "time": "19:00",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "0",
+    "waitListCapacity": 89,
+    "eventSlots": 74,
+    "waitlisted": [],
+    "finalists": [
+      "device_016",
+      "device_002",
+      "device_023",
+      "device_014",
+      "device_015",
+      "device_017",
+      "device_006",
+      "device_018",
+      "device_007",
+      "device_011",
+      "device_013",
+      "device_022",
+      "device_005",
+      "device_008",
+      "device_003",
+      "device_019",
+      "device_010",
+      "device_020"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_036",
+    "qrHash": "c15381c78e6bcdd11c94e3d97d6b59b1455bfe18a7cac1dfb7e71aa9e2df7ca2",
+    "eventID": "event_036",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_016",
+      "device_002",
+      "device_023",
+      "device_014",
+      "device_015",
+      "device_017",
+      "device_006",
+      "device_018",
+      "device_007",
+      "device_011",
+      "device_013",
+      "device_022",
+      "device_005",
+      "device_008",
+      "device_003",
+      "device_019",
+      "device_010",
+      "device_020"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "4483 Kingsway, Edmonton, AB",
+    "deviceId": "device_012",
+    "signupDeadline": "06/28/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_036.jpg",
+    "disabled": false
+  },
+  "event_037": {
+    "name": "Data Science Meetup 37",
+    "eventDate": "08/17/2026",
+    "time": "09:15",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "0",
+    "waitListCapacity": 74,
+    "eventSlots": 67,
+    "waitlisted": [],
+    "finalists": [
+      "device_011",
+      "device_002",
+      "device_006",
+      "device_008",
+      "device_015",
+      "device_018",
+      "device_014",
+      "device_007",
+      "device_019",
+      "device_016",
+      "device_017",
+      "device_023",
+      "device_013",
+      "device_010",
+      "device_012",
+      "device_022",
+      "device_020",
+      "device_005"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_037",
+    "qrHash": "084e32e7c9a686a6909a083877be65628b9c74c1ce333b638beb80f47694e9b4",
+    "eventID": "event_037",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_011",
+      "device_002",
+      "device_006",
+      "device_008",
+      "device_015",
+      "device_018",
+      "device_014",
+      "device_007",
+      "device_019",
+      "device_016",
+      "device_017",
+      "device_023",
+      "device_013",
+      "device_010",
+      "device_012",
+      "device_022",
+      "device_020",
+      "device_005"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_011": [
+          53.495445,
+          -113.512838
+        ]
+      },
+      {
+        "device_002": [
+          53.513419,
+          -113.510373
+        ]
+      },
+      {
+        "device_006": [
+          53.54605,
+          -113.352637
+        ]
+      },
+      {
+        "device_008": [
+          53.488396,
+          -113.435309
+        ]
+      },
+      {
+        "device_015": [
+          53.594137,
+          -113.443491
+        ]
+      },
+      {
+        "device_018": [
+          53.595897,
+          -113.414912
+        ]
+      },
+      {
+        "device_014": [
+          53.465895,
+          -113.517599
+        ]
+      },
+      {
+        "device_007": [
+          53.543959,
+          -113.604849
+        ]
+      },
+      {
+        "device_019": [
+          53.451607,
+          -113.573726
+        ]
+      },
+      {
+        "device_016": [
+          53.534976,
+          -113.502844
+        ]
+      },
+      {
+        "device_017": [
+          53.583344,
+          -113.467219
+        ]
+      },
+      {
+        "device_023": [
+          53.595853,
+          -113.594252
+        ]
+      },
+      {
+        "device_013": [
+          53.539787,
+          -113.608511
+        ]
+      },
+      {
+        "device_010": [
+          53.485941,
+          -113.385608
+        ]
+      },
+      {
+        "device_012": [
+          53.600884,
+          -113.491615
+        ]
+      },
+      {
+        "device_022": [
+          53.457916,
+          -113.599926
+        ]
+      },
+      {
+        "device_020": [
+          53.607349,
+          -113.377186
+        ]
+      },
+      {
+        "device_005": [
+          53.545797,
+          -113.611117
+        ]
+      }
+    ],
+    "location": "8573 97 St, Edmonton, AB",
+    "deviceId": "device_003",
+    "signupDeadline": "08/14/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_037.jpg",
+    "disabled": false
+  },
+  "event_038": {
+    "name": "Case Competition 38",
+    "eventDate": "05/21/2026",
+    "time": "11:45",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "30",
+    "waitListCapacity": 50,
+    "eventSlots": 35,
+    "waitlisted": [
+      "device_020",
+      "device_003",
+      "device_010",
+      "device_012",
+      "device_023"
+    ],
+    "finalists": [
+      "device_022",
+      "device_007",
+      "device_006",
+      "device_014",
+      "device_011",
+      "device_015",
+      "device_013",
+      "device_008",
+      "device_016",
+      "device_002",
+      "device_017",
+      "device_019",
+      "device_005"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_038",
+    "qrHash": "0065265624b12eb2c632b8711b3e9d8803172d4d3670e48d4629524e1f896afc",
+    "eventID": "event_038",
+    "geoLocation": false,
+    "waitlistedNotificationsList": [
+      "device_020",
+      "device_003",
+      "device_010",
+      "device_012",
+      "device_023"
+    ],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_022",
+      "device_007",
+      "device_006",
+      "device_014",
+      "device_011",
+      "device_015",
+      "device_013",
+      "device_008",
+      "device_016",
+      "device_002",
+      "device_017",
+      "device_019",
+      "device_005"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [],
+    "location": "8517 82 Ave, Edmonton, AB",
+    "deviceId": "device_018",
+    "signupDeadline": "05/09/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_038.jpg",
+    "disabled": false
+  },
+  "event_039": {
+    "name": "Hack Night 39",
+    "eventDate": "05/12/2026",
+    "time": "20:45",
+    "description": "An interactive event designed to connect participants with organizers and peers.",
+    "price": "25",
+    "waitListCapacity": 88,
+    "eventSlots": 71,
+    "waitlisted": [],
+    "finalists": [
+      "device_014",
+      "device_016",
+      "device_019",
+      "device_015",
+      "device_020",
+      "device_003",
+      "device_017",
+      "device_010",
+      "device_011",
+      "device_022",
+      "device_018",
+      "device_013",
+      "device_007",
+      "device_008",
+      "device_012",
+      "device_002",
+      "device_023",
+      "device_005"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_039",
+    "qrHash": "8912dc8709edeb177e9f3abf1754d756a0a0fcb127f0d8e81ec745148a533081",
+    "eventID": "event_039",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_014",
+      "device_016",
+      "device_019",
+      "device_015",
+      "device_020",
+      "device_003",
+      "device_017",
+      "device_010",
+      "device_011",
+      "device_022",
+      "device_018",
+      "device_013",
+      "device_007",
+      "device_008",
+      "device_012",
+      "device_002",
+      "device_023",
+      "device_005"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_014": [
+          53.610518,
+          -113.425357
+        ]
+      },
+      {
+        "device_016": [
+          53.534286,
+          -113.453499
+        ]
+      },
+      {
+        "device_019": [
+          53.527836,
+          -113.583418
+        ]
+      },
+      {
+        "device_015": [
+          53.45115,
+          -113.513163
+        ]
+      },
+      {
+        "device_020": [
+          53.593074,
+          -113.51743
+        ]
+      },
+      {
+        "device_003": [
+          53.596574,
+          -113.50114
+        ]
+      },
+      {
+        "device_017": [
+          53.523205,
+          -113.397645
+        ]
+      },
+      {
+        "device_010": [
+          53.560676,
+          -113.459514
+        ]
+      },
+      {
+        "device_011": [
+          53.501074,
+          -113.457133
+        ]
+      },
+      {
+        "device_022": [
+          53.5682,
+          -113.490667
+        ]
+      },
+      {
+        "device_018": [
+          53.480198,
+          -113.512475
+        ]
+      },
+      {
+        "device_013": [
+          53.504253,
+          -113.421584
+        ]
+      },
+      {
+        "device_007": [
+          53.557593,
+          -113.358704
+        ]
+      },
+      {
+        "device_008": [
+          53.582936,
+          -113.532011
+        ]
+      },
+      {
+        "device_012": [
+          53.497651,
+          -113.407816
+        ]
+      },
+      {
+        "device_002": [
+          53.512053,
+          -113.368342
+        ]
+      },
+      {
+        "device_023": [
+          53.483966,
+          -113.350738
+        ]
+      },
+      {
+        "device_005": [
+          53.480588,
+          -113.412743
+        ]
+      }
+    ],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "04/30/2026",
+    "entrantsChosen": true,
+    "eventPosterURL": "https://example.com/posters/event_039.jpg",
+    "disabled": false
+  },
+  "event_040": {
+    "name": "Volunteer Orientation 40",
+    "eventDate": "08/24/2026",
+    "time": "15:00",
+    "description": "A campus event aimed at helping students discover new opportunities.",
+    "price": "50",
+    "waitListCapacity": 87,
+    "eventSlots": 78,
+    "waitlisted": [],
+    "finalists": [
+      "device_016",
+      "device_019",
+      "device_014",
+      "device_023",
+      "device_008",
+      "device_013",
+      "device_015",
+      "device_012",
+      "device_002",
+      "device_017",
+      "device_010",
+      "device_011",
+      "device_018",
+      "device_003",
+      "device_007",
+      "device_022",
+      "device_005",
+      "device_020"
+    ],
+    "cancelled": [],
+    "selected": [],
+    "reselected": [],
+    "qrCodeData": "QR::event_040",
+    "qrHash": "f250e5c233b74b28ea2827de1c7ebaea75c8e244c36c4dd22bcdf068ae762160",
+    "eventID": "event_040",
+    "geoLocation": true,
+    "waitlistedNotificationsList": [],
+    "selectedNotificationsList": [],
+    "joinedNotificationsList": [
+      "device_016",
+      "device_019",
+      "device_014",
+      "device_023",
+      "device_008",
+      "device_013",
+      "device_015",
+      "device_012",
+      "device_002",
+      "device_017",
+      "device_010",
+      "device_011",
+      "device_018",
+      "device_003",
+      "device_007",
+      "device_022",
+      "device_005",
+      "device_020"
+    ],
+    "cancelledNotificationsList": [],
+    "joinLocations": [
+      {
+        "device_016": [
+          53.528721,
+          -113.43652
+        ]
+      },
+      {
+        "device_019": [
+          53.567374,
+          -113.579299
+        ]
+      },
+      {
+        "device_014": [
+          53.619609,
+          -113.489652
+        ]
+      },
+      {
+        "device_023": [
+          53.500223,
+          -113.371452
+        ]
+      },
+      {
+        "device_008": [
+          53.464595,
+          -113.395544
+        ]
+      },
+      {
+        "device_013": [
+          53.574126,
+          -113.525951
+        ]
+      },
+      {
+        "device_015": [
+          53.508321,
+          -113.408247
+        ]
+      },
+      {
+        "device_012": [
+          53.53859,
+          -113.525959
+        ]
+      },
+      {
+        "device_002": [
+          53.466596,
+          -113.425062
+        ]
+      },
+      {
+        "device_017": [
+          53.526916,
+          -113.601863
+        ]
+      },
+      {
+        "device_010": [
+          53.457596,
+          -113.42809
+        ]
+      },
+      {
+        "device_011": [
+          53.453839,
+          -113.527369
+        ]
+      },
+      {
+        "device_018": [
+          53.468592,
+          -113.403986
+        ]
+      },
+      {
+        "device_003": [
+          53.608087,
+          -113.420068
+        ]
+      },
+      {
+        "device_007": [
+          53.537719,
+          -113.470984
+        ]
+      },
+      {
+        "device_022": [
+          53.506268,
+          -113.50488
+        ]
+      },
+      {
+        "device_005": [
+          53.528549,
+          -113.404606
+        ]
+      },
+      {
+        "device_020": [
+          53.557059,
+          -113.569676
+        ]
+      }
+    ],
+    "location": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006",
+    "signupDeadline": "08/08/2026",
+    "entrantsChosen": false,
+    "eventPosterURL": "https://example.com/posters/event_040.jpg",
+    "disabled": false
+  }
+}

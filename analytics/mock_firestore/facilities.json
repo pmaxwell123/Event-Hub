@@ -1,0 +1,42 @@
+{
+  "facility_001": {
+    "facilityName": "Conference Hall 1",
+    "streetAddress": "8573 97 St, Edmonton, AB",
+    "deviceId": "device_003"
+  },
+  "facility_002": {
+    "facilityName": "Arts Building 2",
+    "streetAddress": "4598 104 St, Edmonton, AB",
+    "deviceId": "device_006"
+  },
+  "facility_003": {
+    "facilityName": "Student Centre 3",
+    "streetAddress": "4752 Whyte Ave, Edmonton, AB",
+    "deviceId": "device_007"
+  },
+  "facility_004": {
+    "facilityName": "Sports Complex 4",
+    "streetAddress": "7572 109 St, Edmonton, AB",
+    "deviceId": "device_008"
+  },
+  "facility_005": {
+    "facilityName": "Innovation Hub 5",
+    "streetAddress": "4456 111 Ave, Edmonton, AB",
+    "deviceId": "device_009"
+  },
+  "facility_006": {
+    "facilityName": "Sports Complex 6",
+    "streetAddress": "4483 Kingsway, Edmonton, AB",
+    "deviceId": "device_012"
+  },
+  "facility_007": {
+    "facilityName": "Library Room 7",
+    "streetAddress": "8517 82 Ave, Edmonton, AB",
+    "deviceId": "device_018"
+  },
+  "facility_008": {
+    "facilityName": "Arts Building 8",
+    "streetAddress": "3287 Gateway Blvd, Edmonton, AB",
+    "deviceId": "device_022"
+  }
+}

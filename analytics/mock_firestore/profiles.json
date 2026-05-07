@@ -1,0 +1,242 @@
+{
+  "device_001": {
+    "name": "Alex Lee",
+    "email": "alex.lee@example.com",
+    "phone": "7805551001",
+    "deviceId": "device_001",
+    "profilePicturePath": "/mock/profiles/device_001.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": true
+  },
+  "device_002": {
+    "name": "Jordan Patel",
+    "email": "jordan.patel@example.com",
+    "phone": "7805551002",
+    "deviceId": "device_002",
+    "profilePicturePath": "/mock/profiles/device_002.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_003": {
+    "name": "Taylor Wong",
+    "email": "taylor.wong@example.com",
+    "phone": "7805551003",
+    "deviceId": "device_003",
+    "profilePicturePath": "/mock/profiles/device_003.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_004": {
+    "name": "Morgan Kim",
+    "email": "morgan.kim@example.com",
+    "phone": "7805551004",
+    "deviceId": "device_004",
+    "profilePicturePath": "/mock/profiles/device_004.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": true
+  },
+  "device_005": {
+    "name": "Avery Brown",
+    "email": "avery.brown@example.com",
+    "phone": "7805551005",
+    "deviceId": "device_005",
+    "profilePicturePath": "/mock/profiles/device_005.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_006": {
+    "name": "Sam Nguyen",
+    "email": "sam.nguyen@example.com",
+    "phone": "7805551006",
+    "deviceId": "device_006",
+    "profilePicturePath": "/mock/profiles/device_006.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_007": {
+    "name": "Riley Garcia",
+    "email": "riley.garcia@example.com",
+    "phone": "7805551007",
+    "deviceId": "device_007",
+    "profilePicturePath": "/mock/profiles/device_007.png",
+    "usingDefaultPicture": false,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_008": {
+    "name": "Jamie Smith",
+    "email": "jamie.smith@example.com",
+    "phone": "7805551008",
+    "deviceId": "device_008",
+    "profilePicturePath": "/mock/profiles/device_008.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_009": {
+    "name": "Cameron Miller",
+    "email": "cameron.miller@example.com",
+    "phone": "7805551009",
+    "deviceId": "device_009",
+    "profilePicturePath": "/mock/profiles/device_009.png",
+    "usingDefaultPicture": false,
+    "adminNotifications": true,
+    "admin": true
+  },
+  "device_010": {
+    "name": "Casey Johnson",
+    "email": "casey.johnson@example.com",
+    "phone": "7805551010",
+    "deviceId": "device_010",
+    "profilePicturePath": "/mock/profiles/device_010.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_011": {
+    "name": "Drew Wilson",
+    "email": "drew.wilson@example.com",
+    "phone": "7805551011",
+    "deviceId": "device_011",
+    "profilePicturePath": "/mock/profiles/device_011.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_012": {
+    "name": "Parker Clark",
+    "email": "parker.clark@example.com",
+    "phone": "7805551012",
+    "deviceId": "device_012",
+    "profilePicturePath": "/mock/profiles/device_012.png",
+    "usingDefaultPicture": false,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_013": {
+    "name": "Quinn Ahmed",
+    "email": "quinn.ahmed@example.com",
+    "phone": "7805551013",
+    "deviceId": "device_013",
+    "profilePicturePath": "/mock/profiles/device_013.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_014": {
+    "name": "Skyler Singh",
+    "email": "skyler.singh@example.com",
+    "phone": "7805551014",
+    "deviceId": "device_014",
+    "profilePicturePath": "/mock/profiles/device_014.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_015": {
+    "name": "Emerson Lopez",
+    "email": "emerson.lopez@example.com",
+    "phone": "7805551015",
+    "deviceId": "device_015",
+    "profilePicturePath": "/mock/profiles/device_015.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_016": {
+    "name": "Hayden Martin",
+    "email": "hayden.martin@example.com",
+    "phone": "7805551016",
+    "deviceId": "device_016",
+    "profilePicturePath": "/mock/profiles/device_016.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": false,
+    "admin": false
+  },
+  "device_017": {
+    "name": "Rowan Baker",
+    "email": "rowan.baker@example.com",
+    "phone": "7805551017",
+    "deviceId": "device_017",
+    "profilePicturePath": "/mock/profiles/device_017.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_018": {
+    "name": "Blake Hall",
+    "email": "blake.hall@example.com",
+    "phone": "7805551018",
+    "deviceId": "device_018",
+    "profilePicturePath": "/mock/profiles/device_018.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": false,
+    "admin": false
+  },
+  "device_019": {
+    "name": "Finley Scott",
+    "email": "finley.scott@example.com",
+    "phone": "7805551019",
+    "deviceId": "device_019",
+    "profilePicturePath": "/mock/profiles/device_019.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_020": {
+    "name": "Logan Turner",
+    "email": "logan.turner@example.com",
+    "phone": "7805551020",
+    "deviceId": "device_020",
+    "profilePicturePath": "/mock/profiles/device_020.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_021": {
+    "name": "Elliot Young",
+    "email": "elliot.young@example.com",
+    "phone": "7805551021",
+    "deviceId": "device_021",
+    "profilePicturePath": "/mock/profiles/device_021.png",
+    "usingDefaultPicture": false,
+    "adminNotifications": false,
+    "admin": true
+  },
+  "device_022": {
+    "name": "Kendall Evans",
+    "email": "kendall.evans@example.com",
+    "phone": "7805551022",
+    "deviceId": "device_022",
+    "profilePicturePath": "/mock/profiles/device_022.png",
+    "usingDefaultPicture": false,
+    "adminNotifications": false,
+    "admin": false
+  },
+  "device_023": {
+    "name": "Reese Hill",
+    "email": "reese.hill@example.com",
+    "phone": "7805551023",
+    "deviceId": "device_023",
+    "profilePicturePath": "/mock/profiles/device_023.png",
+    "usingDefaultPicture": true,
+    "adminNotifications": true,
+    "admin": false
+  },
+  "device_024": {
+    "name": "Charlie Moore",
+    "email": "charlie.moore@example.com",
+    "phone": "7805551024",
+    "deviceId": "device_024",
+    "profilePicturePath": "/mock/profiles/device_024.png",
+    "usingDefaultPicture": false,
+    "adminNotifications": true,
+    "admin": true
+  }
+}

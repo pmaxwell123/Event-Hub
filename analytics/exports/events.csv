@@ -1,0 +1,41 @@
+event_id,name,event_date,time,location,price,event_slots,waitlist_capacity,device_id,geo_location_enabled,signup_deadline,entrants_chosen,disabled,waitlisted_count,finalist_count,selected_count,cancelled_count,reselected_count,join_location_count,demand_count,fill_rate,oversubscription_ratio
+event_001,Networking Lunch 1,08/15/2026,09:00,"4456 111 Ave, Edmonton, AB",0,69,94,device_009,True,07/25/2026,False,False,0,19,0,0,0,19,19,0.275,0.275
+event_002,Wellness Session 2,05/21/2026,12:45,"4483 Kingsway, Edmonton, AB",0,45,66,device_012,False,05/02/2026,True,True,0,17,0,0,1,0,18,0.378,0.4
+event_003,Networking Lunch 3,06/14/2026,13:45,"8517 82 Ave, Edmonton, AB",25,51,86,device_018,False,05/28/2026,True,False,0,18,0,0,0,0,18,0.353,0.353
+event_004,Design Sprint 4,05/13/2026,12:15,"4598 104 St, Edmonton, AB",40,27,35,device_006,True,04/26/2026,True,False,4,9,5,0,0,9,18,0.333,0.667
+event_005,Tech Talk 5,06/11/2026,20:30,"4752 Whyte Ave, Edmonton, AB",0,37,38,device_007,True,06/03/2026,False,False,5,13,0,0,0,13,18,0.351,0.486
+event_006,Career Fair 6,08/06/2026,19:00,"8517 82 Ave, Edmonton, AB",20,53,88,device_018,False,07/29/2026,True,False,0,18,0,0,0,0,18,0.34,0.34
+event_007,Volunteer Orientation 7,05/18/2026,11:45,"3287 Gateway Blvd, Edmonton, AB",0,46,60,device_022,True,04/28/2026,True,False,0,18,0,0,0,18,18,0.391,0.391
+event_008,Coding Bootcamp 8,07/09/2026,13:30,"7572 109 St, Edmonton, AB",10,58,114,device_008,True,06/26/2026,False,False,0,18,0,0,0,18,18,0.31,0.31
+event_009,Entrepreneurship Panel 9,06/12/2026,13:30,"3287 Gateway Blvd, Edmonton, AB",0,63,64,device_022,False,05/26/2026,True,False,0,18,0,0,0,0,18,0.286,0.286
+event_010,Wellness Session 10,05/27/2026,10:00,"4483 Kingsway, Edmonton, AB",0,38,44,device_012,False,05/07/2026,True,False,0,18,0,0,0,0,18,0.474,0.474
+event_011,Coding Bootcamp 11,05/22/2026,19:15,"4456 111 Ave, Edmonton, AB",0,30,56,device_009,False,05/12/2026,False,False,1,18,0,0,0,0,19,0.6,0.633
+event_012,AI Workshop 12,06/15/2026,16:30,"4752 Whyte Ave, Edmonton, AB",10,24,26,device_007,False,06/08/2026,True,False,0,18,0,0,0,0,18,0.75,0.75
+event_013,Networking Lunch 13,07/03/2026,10:45,"4483 Kingsway, Edmonton, AB",15,51,76,device_012,False,06/15/2026,True,False,0,18,0,0,0,0,18,0.353,0.353
+event_014,Campus Concert 14,07/16/2026,19:00,"4456 111 Ave, Edmonton, AB",0,68,98,device_009,True,07/05/2026,True,False,0,19,0,0,0,19,19,0.279,0.279
+event_015,Coding Bootcamp 15,05/17/2026,14:15,"8573 97 St, Edmonton, AB",30,22,33,device_003,True,05/04/2026,True,False,1,14,3,0,0,14,18,0.636,0.818
+event_016,Entrepreneurship Panel 16,06/06/2026,20:30,"4752 Whyte Ave, Edmonton, AB",0,61,93,device_007,False,05/30/2026,False,True,0,18,0,0,0,0,18,0.295,0.295
+event_017,Coding Bootcamp 17,06/19/2026,12:00,"8573 97 St, Edmonton, AB",0,29,36,device_003,False,06/01/2026,True,False,2,10,5,0,1,0,18,0.345,0.621
+event_018,Wellness Session 18,06/23/2026,15:45,"7572 109 St, Edmonton, AB",50,15,42,device_008,False,06/16/2026,False,True,13,5,0,0,0,0,18,0.333,1.2
+event_019,Research Showcase 19,06/22/2026,17:30,"4598 104 St, Edmonton, AB",40,23,31,device_006,False,06/15/2026,True,False,7,11,0,0,0,0,18,0.478,0.783
+event_020,Networking Lunch 20,06/17/2026,17:30,"8573 97 St, Edmonton, AB",5,60,76,device_003,True,06/05/2026,False,False,0,18,0,0,0,18,18,0.3,0.3
+event_021,Case Competition 21,05/21/2026,12:15,"3287 Gateway Blvd, Edmonton, AB",0,69,94,device_022,False,05/08/2026,True,False,0,18,0,0,0,0,18,0.261,0.261
+event_022,Leadership Seminar 22,06/03/2026,16:15,"4598 104 St, Edmonton, AB",30,74,110,device_006,False,05/16/2026,True,False,0,18,0,0,0,0,18,0.243,0.243
+event_023,Entrepreneurship Panel 23,07/15/2026,12:15,"4598 104 St, Edmonton, AB",50,20,42,device_006,True,07/07/2026,True,False,0,16,2,0,0,16,18,0.8,0.9
+event_024,Design Sprint 24,06/28/2026,12:00,"7572 109 St, Edmonton, AB",30,71,89,device_008,False,06/07/2026,True,False,0,18,0,0,0,0,18,0.254,0.254
+event_025,Resume Clinic 25,05/16/2026,09:30,"4752 Whyte Ave, Edmonton, AB",50,75,128,device_007,True,05/04/2026,False,False,0,18,0,0,0,18,18,0.24,0.24
+event_026,Tech Talk 26,06/17/2026,17:00,"7572 109 St, Edmonton, AB",50,21,42,device_008,True,06/03/2026,False,False,2,16,0,0,0,16,18,0.762,0.857
+event_027,AI Workshop 27,08/08/2026,16:45,"4456 111 Ave, Edmonton, AB",15,40,44,device_009,False,07/21/2026,True,False,0,19,0,0,0,0,19,0.475,0.475
+event_028,Wellness Session 28,07/06/2026,13:45,"4752 Whyte Ave, Edmonton, AB",0,22,38,device_007,True,06/17/2026,True,False,0,16,1,0,1,16,18,0.727,0.818
+event_029,Coding Bootcamp 29,06/11/2026,16:15,"3287 Gateway Blvd, Edmonton, AB",40,60,60,device_022,True,06/02/2026,True,False,0,18,0,0,0,18,18,0.3,0.3
+event_030,Career Fair 30,05/16/2026,09:15,"7572 109 St, Edmonton, AB",50,29,29,device_008,True,04/25/2026,True,False,0,18,0,0,0,18,18,0.621,0.621
+event_031,Networking Lunch 31,08/16/2026,11:45,"7572 109 St, Edmonton, AB",30,56,76,device_008,True,08/04/2026,False,False,0,18,0,0,0,18,18,0.321,0.321
+event_032,Hack Night 32,08/16/2026,15:30,"3287 Gateway Blvd, Edmonton, AB",10,42,57,device_022,False,07/27/2026,True,True,0,18,0,0,0,0,18,0.429,0.429
+event_033,Campus Concert 33,08/09/2026,09:45,"4483 Kingsway, Edmonton, AB",5,22,36,device_012,False,08/04/2026,True,False,2,15,1,0,0,0,18,0.682,0.818
+event_034,Data Science Meetup 34,05/24/2026,20:45,"4598 104 St, Edmonton, AB",0,72,115,device_006,False,05/20/2026,True,False,0,18,0,0,0,0,18,0.25,0.25
+event_035,Data Science Meetup 35,06/11/2026,13:45,"3287 Gateway Blvd, Edmonton, AB",30,53,62,device_022,False,06/01/2026,False,False,0,18,0,0,0,0,18,0.34,0.34
+event_036,Research Showcase 36,07/16/2026,19:00,"4483 Kingsway, Edmonton, AB",0,74,89,device_012,False,06/28/2026,True,False,0,18,0,0,0,0,18,0.243,0.243
+event_037,Data Science Meetup 37,08/17/2026,09:15,"8573 97 St, Edmonton, AB",0,67,74,device_003,True,08/14/2026,True,False,0,18,0,0,0,18,18,0.269,0.269
+event_038,Case Competition 38,05/21/2026,11:45,"8517 82 Ave, Edmonton, AB",30,35,50,device_018,False,05/09/2026,False,False,5,13,0,0,0,0,18,0.371,0.514
+event_039,Hack Night 39,05/12/2026,20:45,"4598 104 St, Edmonton, AB",25,71,88,device_006,True,04/30/2026,True,False,0,18,0,0,0,18,18,0.254,0.254
+event_040,Volunteer Orientation 40,08/24/2026,15:00,"4598 104 St, Edmonton, AB",50,78,87,device_006,True,08/08/2026,False,False,0,18,0,0,0,18,18,0.231,0.231

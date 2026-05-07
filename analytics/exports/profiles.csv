@@ -1,0 +1,25 @@
+device_id,name,email,phone,using_default_picture,admin_notifications,admin
+device_001,Alex Lee,alex.lee@example.com,7805551001,True,True,True
+device_002,Jordan Patel,jordan.patel@example.com,7805551002,True,True,False
+device_003,Taylor Wong,taylor.wong@example.com,7805551003,True,True,False
+device_004,Morgan Kim,morgan.kim@example.com,7805551004,True,True,True
+device_005,Avery Brown,avery.brown@example.com,7805551005,True,True,False
+device_006,Sam Nguyen,sam.nguyen@example.com,7805551006,True,True,False
+device_007,Riley Garcia,riley.garcia@example.com,7805551007,False,True,False
+device_008,Jamie Smith,jamie.smith@example.com,7805551008,True,True,False
+device_009,Cameron Miller,cameron.miller@example.com,7805551009,False,True,True
+device_010,Casey Johnson,casey.johnson@example.com,7805551010,True,True,False
+device_011,Drew Wilson,drew.wilson@example.com,7805551011,True,True,False
+device_012,Parker Clark,parker.clark@example.com,7805551012,False,True,False
+device_013,Quinn Ahmed,quinn.ahmed@example.com,7805551013,True,True,False
+device_014,Skyler Singh,skyler.singh@example.com,7805551014,True,True,False
+device_015,Emerson Lopez,emerson.lopez@example.com,7805551015,True,True,False
+device_016,Hayden Martin,hayden.martin@example.com,7805551016,True,False,False
+device_017,Rowan Baker,rowan.baker@example.com,7805551017,True,True,False
+device_018,Blake Hall,blake.hall@example.com,7805551018,True,False,False
+device_019,Finley Scott,finley.scott@example.com,7805551019,True,True,False
+device_020,Logan Turner,logan.turner@example.com,7805551020,True,True,False
+device_021,Elliot Young,elliot.young@example.com,7805551021,False,False,True
+device_022,Kendall Evans,kendall.evans@example.com,7805551022,False,False,False
+device_023,Reese Hill,reese.hill@example.com,7805551023,True,True,False
+device_024,Charlie Moore,charlie.moore@example.com,7805551024,False,True,True

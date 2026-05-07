@@ -1,0 +1,9 @@
+facility_id,facility_name,street_address,device_id
+facility_001,Conference Hall 1,"8573 97 St, Edmonton, AB",device_003
+facility_002,Arts Building 2,"4598 104 St, Edmonton, AB",device_006
+facility_003,Student Centre 3,"4752 Whyte Ave, Edmonton, AB",device_007
+facility_004,Sports Complex 4,"7572 109 St, Edmonton, AB",device_008
+facility_005,Innovation Hub 5,"4456 111 Ave, Edmonton, AB",device_009
+facility_006,Sports Complex 6,"4483 Kingsway, Edmonton, AB",device_012
+facility_007,Library Room 7,"8517 82 Ave, Edmonton, AB",device_018
+facility_008,Arts Building 8,"3287 Gateway Blvd, Edmonton, AB",device_022
